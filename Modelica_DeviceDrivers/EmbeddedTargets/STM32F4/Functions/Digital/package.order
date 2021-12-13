@@ -1,7 +1,0 @@
-ledOut
-InitLed
-InitRead
-InitWrite
-InitExtInt
-read
-write
